@@ -1,6 +1,6 @@
 %% PCA denoising at fixed rank 
 % This code was used to perform denoising at fixed rank 
-% using the slinding window 
+% using the sliding window 
 % on synthetic DW-MR spectra for
 % Genovese and Marjanska MRM (2024) doi:xxx
 %
